@@ -38,5 +38,9 @@ button {
 }
 
 #pageBody {
-    max-width: 600px;
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
 }
